@@ -18,6 +18,12 @@ I'm a third-year B.Tech Computer Science undergraduate, building toward a **Data
 - 💼 Open to **DS/ML/AI internships** — actively applying
 
 ---
+### 🎓 Academics
+
+- 🎓 **CGPA:** 7.44 (B.Tech, Computer Science)
+- 📘 **12th Boards:** 86.6%
+- 📗 **10th Boards:** 84.6%
+
 ### 🛠️ Tech Stack
 
 **Languages**
@@ -80,6 +86,19 @@ LSTM-based electricity power consumption forecasting using time series analysis,
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AtharvaPandey-coder&show_icons=true&theme=dark" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AtharvaPandey-coder&theme=dark" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=AtharvaPandey-coder&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvaPandey-coder&layout=compact&theme=radical&hide_border=true" height="165">
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AtharvaPandey-coder&theme=radical&hide_border=true" height="165">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AtharvaPandey-coder&theme=react-dark&hide_border=true" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AtharvaPandey-coder&theme=radical&no-frame=true&row=1&column=6" width="100%">
+</p>
+
