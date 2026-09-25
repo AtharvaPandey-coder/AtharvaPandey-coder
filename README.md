@@ -85,19 +85,10 @@ LSTM-based electricity power consumption forecasting using time series analysis,
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AtharvaPandey-coder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvaPandey-coder&layout=compact&theme=tokyonight&hide_border=true" height="165">
+  <img src="https://img.shields.io/github/followers/AtharvaPandey-coder?label=Followers&style=for-the-badge&color=blueviolet&logo=github">
+  <img src="https://komarev.com/ghpvc/?username=AtharvaPandey-coder&label=Profile+Views&color=blueviolet&style=for-the-badge">
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=AtharvaPandey-coder&theme=tokyonight&hide_border=true" height="165">
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AtharvaPandey-coder&theme=tokyo-night&hide_border=true" width="100%">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AtharvaPandey-coder&theme=tokyonight&no-frame=true&row=1&column=6" width="100%">
-</p>
-
