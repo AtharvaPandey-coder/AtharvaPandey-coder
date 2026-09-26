@@ -20,13 +20,20 @@ I'm a third-year B.Tech Computer Science undergraduate, building toward a **Data
 - 💼 Open to **DS/ML/AI internships** — actively applying
 
 ---
+### 🎯 Current Focus
+
+- 🤖 Building RAG and Agentic AI applications
+- 🧠 Strengthening ML/DL/NLP project depth and deployment
+- 💼 Preparing for Data Science / ML / AI internship opportunities
+- 🚀 Turning practical projects into production-oriented applications
+
 ### 🎓 Academics
 
 - 🎓 **CGPA:** 7.44 (B.Tech, Computer Science)
 - 📘 **12th Boards:** 86.6%
 - 📗 **10th Boards:** 84.6%
 
-### 🛠️ Tech Stack
+### 🛠️ Technical Skills
 
 **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -53,7 +60,7 @@ I'm a third-year B.Tech Computer Science undergraduate, building toward a **Data
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-### 🤖 AI Tools I Use
+### 🤖 AI & LLM Platforms
 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
@@ -62,6 +69,14 @@ I'm a third-year B.Tech Computer Science undergraduate, building toward a **Data
 ![Grok](https://img.shields.io/badge/Grok-000000?style=flat-square&logo=x&logoColor=white)
 
 ---
+### 🧩 What I Build
+
+- 📊 Data Science & Machine Learning systems
+- 🧠 Deep Learning & NLP applications
+- 🔎 RAG-based document intelligence systems
+- 🤖 Agentic AI systems with tools and workflows
+- 🔗 Semantic search and retrieval systems
+- ⚡ Streamlit-based AI/ML applications
 
 ### 🚀 Featured Projects
 
