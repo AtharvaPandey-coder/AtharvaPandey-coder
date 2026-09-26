@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Atharva Pandey 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=CS+Undergrad+%7C+Data+Science+%2F+ML;Building+ML+DS+RAG+%26+Agentic+AI+Systems;Open+to+DS%2FML%2FAI+Internships" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=CS+Undergrad+%7C+Data+Science+%2F+ML+%2F+AI;Building+ML+%2F+DL+%2F+DS+%2F+RAG+%26+Agentic+AI+Systems;Open+to+DS%2FML%2FAI+Internships" alt="Typing SVG">
 </p>
 
 <p align="center">
