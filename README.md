@@ -102,8 +102,8 @@ LSTM-based electricity power consumption forecasting using time series analysis,
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/AtharvaPandey-coder?label=Followers&style=for-the-badge&color=blueviolet&logo=github">
-  <img src="https://komarev.com/ghpvc/?username=AtharvaPandey-coder&label=Profile+Views&color=blueviolet&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Open_to-AI_ML_Internships-7aa2f7?style=for-the-badge&labelColor=1a1b27">
+  <img src="https://img.shields.io/badge/Focus-ML_DL_NLP_GenAI-7aa2f7?style=for-the-badge&labelColor=1a1b27">
 </p>
 
 <p align="center">
