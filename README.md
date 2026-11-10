@@ -14,7 +14,7 @@
 
 I'm a third-year B.Tech Computer Science undergraduate, building toward a **Data Science / ML internship**. I work across classical ML, deep learning, NLP, and generative AI — with a portfolio-driven approach to learning.
 
-- 🔭 Currently building: agentic RAG systems with LangChain
+- 🔭 Currently building: Agentic AI and MCP-powered applications
 - 📊 Portfolio spans fraud detection, time-series forecasting, NLP classifiers, and multi-agent GenAI systems
 - 🧠 Comfortable with: XGBoost, LSTM, BiLSTM, SHAP, VADER, FAISS, LangChain, Gemini API, Groq
 - 💼 Open to **DS/ML/AI internships** — actively applying
