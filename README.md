@@ -42,8 +42,13 @@ I'm a third-year B.Tech Computer Science undergraduate, building toward a **Data
 **ML / DL / NLP**
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+**Generative AI / Agentic AI**
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-6B5CE7?style=flat-square&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-00A67E?style=flat-square&logoColor=white)
+
 
 **Data & Viz**
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
