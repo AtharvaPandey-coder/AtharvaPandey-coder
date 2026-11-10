@@ -82,7 +82,7 @@ I'm a third-year B.Tech Computer Science undergraduate, building toward a **Data
 - 🤖 Agentic AI systems with tools and workflows
 - 🔗 Semantic search and retrieval systems
 - ⚡ Streamlit-based AI/ML applications
-
+- 🔗 MCP-based tool integration and AI application workflows
 ### 🚀 Featured Projects
 
 **[Fintech Support Ticket Triage Agent](https://github.com/AtharvaPandey-coder/Fintech-Support-Ticket-Triage-Agent)**
