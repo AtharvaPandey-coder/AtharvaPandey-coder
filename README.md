@@ -29,7 +29,7 @@ I'm a third-year B.Tech Computer Science undergraduate, building toward a **Data
 
 ### 🎓 Academics
 
-- 🎓 **CGPA:** 7.44 (B.Tech, Computer Science)
+- 🎓 **CGPA:** 7.22 (B.Tech, Computer Science)
 - 📘 **12th Boards:** 86.6%
 - 📗 **10th Boards:** 84.6%
 
